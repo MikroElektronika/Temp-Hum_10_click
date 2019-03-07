@@ -1,0 +1,21 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F407VG -BIN -LHF -DL -SSA -O11111114 -fo16 -N"D:\Clicks_git\T\Temp-Hum_10_click\SW\example\c\ARM\STM\Click_TempHum10_STM.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M4\" -SP"D:\Clicks_git\T\Temp-Hum_10_click\SW\example\c\ARM\STM\" -SP"D:\Clicks_git\T\Temp-Hum_10_click\SW\library\HAL\" -SP"D:\Clicks_git\T\Temp-Hum_10_click\SW\library\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\mikroBUS Board Definition API\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M4\" -IP"D:\Clicks_git\T\Temp-Hum_10_click\SW\example\c\ARM\STM\" -IP"D:\Clicks_git\T\Temp-Hum_10_click\SW\library\" -IP"D:\Clicks_git\T\Temp-Hum_10_click\SW\library\HAL\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\mikroBUS Board Definition API\Uses\" "Click_TempHum10_STM.c" "__temphum10_driver.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_4XX.emcl" "__Lib_GPIO_32F4xx_Defs.emcl" "__Lib_GPIO_32F4xx.emcl" "__Lib_CString.emcl" "__Lib_Conversions.emcl" "__Lib_I2C_123.emcl" "__Lib_UART_123_45_6.emcl" "easymx_v7_STM32F407VG.emcl" "Click_TempHum10.pld"	 
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 81	123	Compiled Successfully	Click_TempHum10_STM.c
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 176	123	Compiled Successfully	__temphum10_driver.c
+hint: 323	1164	Variable 'tmp' has been eliminated by optimizer	__temphum10_driver.c
+hint: 84	1164	Variable 'tmp' has been eliminated by optimizer	__temphum10_driver.c
+hint: 101	1164	Variable 'ptr' has been eliminated by optimizer	__temphum10_driver.c
+hint: 109	1164	Variable 'ptr' has been eliminated by optimizer	__temphum10_driver.c
+hint: 134	1164	Variable 'humMsb' has been eliminated by optimizer	__temphum10_driver.c
+hint: 137	1164	Variable 'Humidity' has been eliminated by optimizer	__temphum10_driver.c
+hint: 153	1164	Variable 'tempLsb' has been eliminated by optimizer	__temphum10_driver.c
+hint: 155	1164	Variable 'Temperature' has been eliminated by optimizer	__temphum10_driver.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 215   Dynamic RAM (bytes): 130853	Static RAM (bytes): 215   Dynamic RAM (bytes): 130853
+hint: 0	1144	Used ROM (bytes): 11196 (1%)  Free ROM (bytes): 1037380 (99%)	Used ROM (bytes): 11196 (1%)  Free ROM (bytes): 1037380 (99%)
+diagnostics: 0	125	Project Linked Successfully	Click_TempHum10_STM.mcpar
+diagnostics: 0	128	Linked in 484 ms	 
+diagnostics: 0	129	Project 'Click_TempHum10_STM.mcpar' completed: 828 ms	 
+diagnostics: 0	103	Finished successfully: 14 dec 2018, 12:55:16	Click_TempHum10_STM.mcpar

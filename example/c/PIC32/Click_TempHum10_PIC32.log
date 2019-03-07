@@ -1,0 +1,20 @@
+0	1	mikroCPIC32.exe -MSF -DBG -pP32MX460F512L -C -DL -SSA -EBASE 0x9FC01000 -INTDEF MV_SRS7_IS32 -O11111115 -fo80 -N"D:\Clicks_git\T\Temp-Hum_10_click\SW\example\c\PIC32\Click_TempHum10_PIC32.mcp32" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC32\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC32\Uses\" -SP"D:\Clicks_git\T\Temp-Hum_10_click\SW\example\c\PIC32\" -SP"D:\Clicks_git\T\Temp-Hum_10_click\SW\library\HAL\" -SP"D:\Clicks_git\T\Temp-Hum_10_click\SW\library\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC32\Packages\mikroBUS Board Definition API\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC32\Uses\" -IP"D:\Clicks_git\T\Temp-Hum_10_click\SW\example\c\PIC32\" -IP"D:\Clicks_git\T\Temp-Hum_10_click\SW\library\" -IP"D:\Clicks_git\T\Temp-Hum_10_click\SW\library\HAL\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC32\Packages\mikroBUS Board Definition API\Uses\" "Click_TempHum10_PIC32.c" "__temphum10_Driver.c" "__Lib_CP0.emcl" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_System.emcl" "__Lib_SoftResetDma.emcl" "__Lib_Delays.emcl" "__Lib_CString.emcl" "__Lib_Conversions.emcl" "__Lib_I2C_12.emcl" "__Lib_UART_12.emcl" "easypicfusion_v7_P32MX460F512L.emcl" "Click_TempHum10.pld"	 
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 83	123	Compiled Successfully	Click_TempHum10_PIC32.c
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 176	123	Compiled Successfully	__temphum10_Driver.c
+hint: 323	1164	Variable 'tmp' has been eliminated by optimizer	__temphum10_Driver.c
+hint: 95	1164	Variable 'tmp' has been eliminated by optimizer	__temphum10_Driver.c
+hint: 134	1164	Variable 'humMsb' has been eliminated by optimizer	__temphum10_Driver.c
+hint: 137	1164	Variable 'Humidity' has been eliminated by optimizer	__temphum10_Driver.c
+hint: 153	1164	Variable 'tempLsb' has been eliminated by optimizer	__temphum10_Driver.c
+hint: 155	1164	Variable 'Temperature' has been eliminated by optimizer	__temphum10_Driver.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RX: 25 (78%)   Free RX: 7 (22%)	Used RX: 25 (78%)   Free RX: 7 (22%)
+hint: 0	1144	Static RAM (bytes): 195   Dynamic RAM (bytes): 32569	Static RAM (bytes): 195   Dynamic RAM (bytes): 32569
+hint: 0	1144	Used ROM (bytes): 11594 (2%)  Free ROM (bytes): 512694 (98%)	Used ROM (bytes): 11594 (2%)  Free ROM (bytes): 512694 (98%)
+hint: 0	1144	Used BOOTROM (bytes): 320 (3%)  Free BOOTROM (bytes): 11953 (97%)	Used BOOTROM (bytes): 320 (3%)  Free BOOTROM (bytes): 11953 (97%)
+diagnostics: 0	125	Project Linked Successfully	Click_TempHum10_PIC32.mcp32
+diagnostics: 0	128	Linked in 109 ms	 
+diagnostics: 0	129	Project 'Click_TempHum10_PIC32.mcp32' completed: 265 ms	 
+diagnostics: 0	103	Finished successfully: 14 dec 2018, 14:06:04	Click_TempHum10_PIC32.mcp32

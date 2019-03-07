@@ -1,0 +1,9 @@
+<WCH v="2">
+<item n="temphum10_readByte_readReg_L0" r="1" s="False" e="True" i="3568">
+<item n="[0]" r="0" s="False" e="False" i="0"/>
+<item n="[1]" r="1" s="False" e="False" i="1"/>
+</item>
+<item n="temphum10_getTemperature_readData_L0" r="0" s="False" e="True" i="1"/>
+<item n="temphum10_getTemperature_readData_L0" r="0" s="False" e="True" i="2"/>
+<item n="_Temperature" r="3" s="True" e="True" i="3"/>
+</WCH>
