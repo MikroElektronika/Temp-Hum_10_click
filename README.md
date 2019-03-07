@@ -4,8 +4,6 @@
 
 # TempHum10 Click
 
----
-
 - **CIC Prefix**  : TEMPHUM10
 - **Author**      : Katarina Perendic
 - **Verison**     : 1.0.0
@@ -13,11 +11,6 @@
 
 ---
 
-- **Libstock** : https://libstock.mikroe.com/projects/view/2693/temp-hum-10-click
-- **HEXIWEAR** : ${HEXI_LINK}
-- **GitHub**   : ${GITHUB_LINK}
-
----
 
 ### Software Support
 
@@ -88,27 +81,6 @@ development systems with no UART to USB interface available on the board. The
 terminal available in all Mikroelektronika 
 [compilers](http://shop.mikroe.com/compilers), or any other terminal application 
 of your choice, can be used to read the message.
-
----
-### Architectures Supported
-
-#### mikroC
-
-| STM | KIN | CEC | MSP | TIVA | PIC | PIC32 | DSPIC | AVR | FT90x |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| x | x | x | x | x | x | x | x | x | x |
-
-#### mikroBasic
-
-| STM | KIN | CEC | MSP | TIVA | PIC | PIC32 | DSPIC | AVR | FT90x |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| x | x | x | x | x | x | x | x | x | x |
-
-#### mikroPascal
-
-| STM | KIN | CEC | MSP | TIVA | PIC | PIC32 | DSPIC | AVR | FT90x |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| x | x | x | x | x | x | x | x | x | x |
 
 ---
 ---
